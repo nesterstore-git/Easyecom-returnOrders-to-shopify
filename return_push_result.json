@@ -1,0 +1,272 @@
+{
+  "pushed": [
+    {
+      "easyecomOrder": "RCHR12627-40",
+      "referenceCode": "1487",
+      "shopifyOrderId": 7210650861797,
+      "shopifyOrderNumber": 1644,
+      "shopifyOrderName": "#1644",
+      "deliveryStatus": "Customer Return"
+    },
+    {
+      "easyecomOrder": "test-pushed",
+      "referenceCode": "1253",
+      "note": "Pushed during test run — skip on --all"
+    },
+    {
+      "easyecomOrder": "test-pushed",
+      "referenceCode": "1249",
+      "note": "Pushed during test run — skip on --all"
+    },
+    {
+      "easyecomOrder": "test-pushed",
+      "referenceCode": "1315",
+      "note": "Pushed during test run — skip on --all"
+    },
+    {
+      "easyecomOrder": "test-pushed",
+      "referenceCode": "1475",
+      "note": "Pushed during test run — skip on --all"
+    },
+    {
+      "easyecomOrder": "RCHR1-2526-20",
+      "referenceCode": "1284",
+      "shopifyOrderId": 7210703880421,
+      "shopifyOrderNumber": 1649,
+      "shopifyOrderName": "#1649",
+      "deliveryStatus": "Customer Return"
+    },
+    {
+      "easyecomOrder": "RCHR1-2526-21",
+      "referenceCode": "1293",
+      "shopifyOrderId": 7210704142565,
+      "shopifyOrderNumber": 1650,
+      "shopifyOrderName": "#1650",
+      "deliveryStatus": "Customer Return"
+    },
+    {
+      "easyecomOrder": "RCHR12627-9",
+      "referenceCode": "1317",
+      "shopifyOrderId": 7210704273637,
+      "shopifyOrderNumber": 1651,
+      "shopifyOrderName": "#1651",
+      "deliveryStatus": "Courier Return"
+    },
+    {
+      "easyecomOrder": "RCHR12627-15",
+      "referenceCode": "1337",
+      "shopifyOrderId": 7210704437477,
+      "shopifyOrderNumber": 1652,
+      "shopifyOrderName": "#1652",
+      "deliveryStatus": "Customer Return"
+    },
+    {
+      "easyecomOrder": "RCHR12627-37",
+      "referenceCode": "1483",
+      "shopifyOrderId": 7210704601317,
+      "shopifyOrderNumber": 1653,
+      "shopifyOrderName": "#1653",
+      "deliveryStatus": "Customer Return"
+    },
+    {
+      "easyecomOrder": "RCHR12627-38",
+      "referenceCode": "1492",
+      "shopifyOrderId": 7210704666853,
+      "shopifyOrderNumber": 1654,
+      "shopifyOrderName": "#1654",
+      "deliveryStatus": "Customer Return"
+    },
+    {
+      "easyecomOrder": "RCHR12627-39",
+      "referenceCode": "1495",
+      "shopifyOrderId": 7210704765157,
+      "shopifyOrderNumber": 1655,
+      "shopifyOrderName": "#1655",
+      "deliveryStatus": "Customer Return"
+    },
+    {
+      "easyecomOrder": "RCHR12627-36",
+      "referenceCode": "1552",
+      "shopifyOrderId": 7210704928997,
+      "shopifyOrderNumber": 1656,
+      "shopifyOrderName": "#1656",
+      "deliveryStatus": "Customer Return"
+    },
+    {
+      "easyecomOrder": "1207",
+      "referenceCode": "1207",
+      "shopifyOrderId": 7210705060069,
+      "shopifyOrderNumber": 1657,
+      "shopifyOrderName": "#1657",
+      "deliveryStatus": "Customer Return"
+    },
+    {
+      "easyecomOrder": "1251",
+      "referenceCode": "1251",
+      "shopifyOrderId": 7210705158373,
+      "shopifyOrderNumber": 1658,
+      "shopifyOrderName": "#1658",
+      "deliveryStatus": "Customer Return"
+    },
+    {
+      "easyecomOrder": "1267",
+      "referenceCode": "1267",
+      "shopifyOrderId": 7210705256677,
+      "shopifyOrderNumber": 1659,
+      "shopifyOrderName": "#1659",
+      "deliveryStatus": "Customer Return"
+    },
+    {
+      "easyecomOrder": "1270",
+      "referenceCode": "1270",
+      "shopifyOrderId": 7210705420517,
+      "shopifyOrderNumber": 1660,
+      "shopifyOrderName": "#1660",
+      "deliveryStatus": "Customer Return"
+    },
+    {
+      "easyecomOrder": "1279",
+      "referenceCode": "1279",
+      "shopifyOrderId": 7210705617125,
+      "shopifyOrderNumber": 1661,
+      "shopifyOrderName": "#1661",
+      "deliveryStatus": "Customer Return"
+    },
+    {
+      "easyecomOrder": "1304",
+      "referenceCode": "1304",
+      "shopifyOrderId": 7210705748197,
+      "shopifyOrderNumber": 1662,
+      "shopifyOrderName": "#1662",
+      "deliveryStatus": "Customer Return"
+    },
+    {
+      "easyecomOrder": "1308",
+      "referenceCode": "1308",
+      "shopifyOrderId": 7210705846501,
+      "shopifyOrderNumber": 1663,
+      "shopifyOrderName": "#1663",
+      "deliveryStatus": "Customer Return"
+    },
+    {
+      "easyecomOrder": "1316",
+      "referenceCode": "1316",
+      "shopifyOrderId": 7210705944805,
+      "shopifyOrderNumber": 1664,
+      "shopifyOrderName": "#1664",
+      "deliveryStatus": "Return"
+    },
+    {
+      "easyecomOrder": "1318",
+      "referenceCode": "1318",
+      "shopifyOrderId": 7210706043109,
+      "shopifyOrderNumber": 1665,
+      "shopifyOrderName": "#1665",
+      "deliveryStatus": "Return"
+    },
+    {
+      "easyecomOrder": "1320",
+      "referenceCode": "1320",
+      "shopifyOrderId": 7210706141413,
+      "shopifyOrderNumber": 1666,
+      "shopifyOrderName": "#1666",
+      "deliveryStatus": "Return"
+    },
+    {
+      "easyecomOrder": "1321",
+      "referenceCode": "1321",
+      "shopifyOrderId": 7210706174181,
+      "shopifyOrderNumber": 1667,
+      "shopifyOrderName": "#1667",
+      "deliveryStatus": "Return"
+    },
+    {
+      "easyecomOrder": "1322",
+      "referenceCode": "1322",
+      "shopifyOrderId": 7210706338021,
+      "shopifyOrderNumber": 1668,
+      "shopifyOrderName": "#1668",
+      "deliveryStatus": "Return"
+    },
+    {
+      "easyecomOrder": "1328",
+      "referenceCode": "1328",
+      "shopifyOrderId": 7210706469093,
+      "shopifyOrderNumber": 1669,
+      "shopifyOrderName": "#1669",
+      "deliveryStatus": "Return"
+    },
+    {
+      "easyecomOrder": "1357",
+      "referenceCode": "1357",
+      "shopifyOrderId": 7210706632933,
+      "shopifyOrderNumber": 1670,
+      "shopifyOrderName": "#1670",
+      "deliveryStatus": "Customer Return"
+    },
+    {
+      "easyecomOrder": "1362",
+      "referenceCode": "1362",
+      "shopifyOrderId": 7210706796773,
+      "shopifyOrderNumber": 1671,
+      "shopifyOrderName": "#1671",
+      "deliveryStatus": "Customer Return"
+    },
+    {
+      "easyecomOrder": "1376",
+      "referenceCode": "1376",
+      "shopifyOrderId": 7210706927845,
+      "shopifyOrderNumber": 1672,
+      "shopifyOrderName": "#1672",
+      "deliveryStatus": "Return"
+    },
+    {
+      "easyecomOrder": "1437",
+      "referenceCode": "1437",
+      "shopifyOrderId": 7210707091685,
+      "shopifyOrderNumber": 1673,
+      "shopifyOrderName": "#1673",
+      "deliveryStatus": "Customer Return"
+    },
+    {
+      "easyecomOrder": "1443",
+      "referenceCode": "1443",
+      "shopifyOrderId": 7210707288293,
+      "shopifyOrderNumber": 1674,
+      "shopifyOrderName": "#1674",
+      "deliveryStatus": "Customer Return"
+    },
+    {
+      "easyecomOrder": "1465",
+      "referenceCode": "1465",
+      "shopifyOrderId": 7210707386597,
+      "shopifyOrderNumber": 1675,
+      "shopifyOrderName": "#1675",
+      "deliveryStatus": "Return"
+    },
+    {
+      "easyecomOrder": "1467",
+      "referenceCode": "1467",
+      "shopifyOrderId": 7210707550437,
+      "shopifyOrderNumber": 1676,
+      "shopifyOrderName": "#1676",
+      "deliveryStatus": "Return"
+    }
+  ],
+  "failed": [
+    {
+      "order": "1279_R",
+      "error": "{\"errors\":{\"customer.phone_number\":[\"can't be blank\",\"is invalid\"],\"customer.last_name\":[\"can't be blank\"]}}"
+    },
+    {
+      "order": "1389",
+      "error": "{\"errors\":{\"order\":[\"Order tags is invalid\"]}}"
+    },
+    {
+      "order": "1538",
+      "error": "{\"errors\":{\"order\":[\"Order tags is invalid\"]}}"
+    }
+  ],
+  "total": 31,
+  "lastRunAt": "2026-07-10T08:12:38.094Z"
+}
