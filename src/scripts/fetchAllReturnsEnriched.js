@@ -224,11 +224,11 @@ async function main() {
   logger.info('Step 1: Generating EasyEcom access token...');
   const { token } = await generateToken();
 
-  // Step 2: Fetch getAllReturns (credit_note_start_date / credit_note_end_date)
+  // Step 2: Fetch getAllReturns using created_after / created_before (confirmed from Postman)
   logger.info('\nStep 2: Fetching getAllReturns...');
   const allReturnsRaw = await fetchPaginated(
     token,
-    { path: 'orders/getAllReturns', params: { limit: LIMIT, credit_note_start_date: START_DATE, credit_note_end_date: endDate } },
+    { path: 'orders/getAllReturns', params: { limit: LIMIT, created_after: START_DATE, created_before: endDate } },
     'credit_notes',
     'getAllReturns'
   );

@@ -364,8 +364,8 @@ async function runDailySync() {
   // Step 2: Fetch yesterday's returns from both endpoints
   logger.info('Fetching getAllReturns...');
   const allReturnsRaw = await fetchPaginated(token, 'orders/getAllReturns', {
-    credit_note_start_date: startDate,
-    credit_note_end_date:   endDate,
+    created_after:  startDate,
+    created_before: endDate,
     limit: 250,
   }, 'credit_notes');
 
